@@ -6,7 +6,7 @@
 puts stands for Put String
 
 Ruby variables; all lowercase, snake_case, Constants should be ALL_CAPS or FirstCap
-
+ 
 Classes (and modules): CamelCase
 Semicolons are optional, try to not put many statements in one line. 
 
